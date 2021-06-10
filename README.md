@@ -1,3 +1,9 @@
+# Shahin Alam
+Hi, I'm Shahin Alam from Narayanganj, Bangladesh.
+Currently studying in Computer Science & Engineering at University of Asia pacific in Bangladesh.
+I'm trying to push my career in "web development ". Nowadays, I'm exploring laravel framework.
+
+
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhnabShahin&count_private=true&show_icons=true&theme=radical" />
