@@ -6,7 +6,7 @@ I'm trying to push my career in web development. Nowadays, I'm exploring laravel
 <img margin="20px" width="40%" src="https://github.com/AhnabShahin/AhnabShahin/blob/master/coding-freak.gif" >
 
 ## My GitHub Stats 📊
-<a href="">
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhnabShahin&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/AhnabShahin?tab=repositories">
