@@ -34,7 +34,7 @@ class AhnabShahin extends SoftwareEngineer
     public string $location  = "Narayanganj, Bangladesh 🇧🇩";
     public string $company   = "XpeedStudio";
     public string $role      = "Software Engineer / Code Engineer";
-    public string $education = "M.Sc. in IT — Jahangirnagar University";
+    public string $education = "M.Sc. in IIT — Jahangirnagar University";
 
     public array $expertise = [
         "WordPress Plugin Development",
